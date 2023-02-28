@@ -1,3 +1,27 @@
+## Features
+
+The frontend of the ecommerce website includes the following 
+
+features:
+
+*Product Catalog*
+The website displays a catalog of products for customers to browse. Each product is presented with an image, name, description, and price.
+
+*Shopping Cart*
+Customers can add products to their shopping cart and see a summary of their order. They can adjust the quantity of each item in their cart and remove items if needed.
+
+*Checkout*
+Once customers have added products to their cart, they can proceed to checkout. The checkout page collects the customer's billing and shipping information, and provides a summary of their order.
+
+## Technologies Used
+The ecommerce website frontend was created using the following technologies:
+
+HTML - for creating the structure of the website
+CSS - for styling the website and making it look visually appealing
+JavaScript - for adding interactivity to the website, such as updating the shopping cart and handling checkout
+
+
+
 <h1 align="center">Hi 👋, I'm Chirag Mandal</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
